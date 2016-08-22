@@ -16,3 +16,14 @@ public class WeaselOrNot{
 		System.out.println("You ignored polite instructions: " + nope);
 	}
 }
+
+/*
+Study Drills
+
+Try changing around the comparison on line 12 so that "weasel" 
+is in front of the dot and the variable word is inside the parentheses. 
+Make sure that "weasel" is still surrounded by quotes and that word 
+is not. Does it work?
+
+I DON'T ACTUALLY GET THESE STUDY DRILLS
+*/
